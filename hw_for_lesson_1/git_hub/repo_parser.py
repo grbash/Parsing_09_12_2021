@@ -14,7 +14,7 @@ if req.ok:
 else:
     print(f'Response code {req.status_code}')
     sys.exit()
-with open('repos_list.json', 'wt', encoding="UTF-8") as file:
+with open('repos_list.json', 'w', encoding="UTF-8") as file:
     print(data, file=file)
 
 repos_names = []
