@@ -1,0 +1,20 @@
+[
+    {
+        "filename": "file_1.txt",
+        "hash": "245bc97ec8d9d70c0a8c2c6048e6afea53965f080a86e9bf1b4130bf3b7af432",
+        "scan_id": "245bc97ec8d9d70c0a8c2c6048e6afea53965f080a86e9bf1b4130bf3b7af432-1639627251",
+        "clean": "yes"
+    },
+    {
+        "filename": "file_2.docx",
+        "hash": "5ad03887bebf0353a0fec2c4ba6be52aa8b7ddd97f7a1e9f633c3b8168b1d939",
+        "scan_id": "5ad03887bebf0353a0fec2c4ba6be52aa8b7ddd97f7a1e9f633c3b8168b1d939-1639627285",
+        "clean": "yes"
+    },
+    {
+        "filename": "file_3.txt",
+        "hash": "b682d9b611e47802c2a737dd4040373ed80037386594d88035a226070852e22d",
+        "scan_id": "b682d9b611e47802c2a737dd4040373ed80037386594d88035a226070852e22d-1639627543",
+        "clean": "yes"
+    }
+]
